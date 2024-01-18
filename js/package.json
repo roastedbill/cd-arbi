@@ -1,0 +1,11 @@
+{
+  "name": "cd-arbi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/roastedbill/cd-arbi.git",
+  "author": "RS <liu6rensheng@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "uniswap": "^0.0.1"
+  }
+}
